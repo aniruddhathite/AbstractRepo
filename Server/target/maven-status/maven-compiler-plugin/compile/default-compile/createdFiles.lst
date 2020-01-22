@@ -1,0 +1,4 @@
+com\abstractRepo\Server\service\AbstractService.class
+com\abstractRepo\Server\service\WelcomeService.class
+com\abstractRepo\Server\App.class
+com\abstractRepo\Server\controller\AbstractController.class
